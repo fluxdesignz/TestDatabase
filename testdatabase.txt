@@ -1,0 +1,1 @@
+test download	nds	ANY	https://serve.emulatorgames.net/roms/nintendo-ds/Kirby%20Super%20Stars%20Ultra%20(U)(XenoPhobia).zip	kirby.zip
